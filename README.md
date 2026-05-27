@@ -78,7 +78,6 @@ Never commit `.env` or API keys.
 
 ![ChatGPT ranking 1](docs/assets/ranking-1.png)
 ![ChatGPT ranking 2](docs/assets/ranking-2.png)
-![ChatGPT ranking 3](docs/assets/ranking-3.png)
 
 
 ## Documentation
