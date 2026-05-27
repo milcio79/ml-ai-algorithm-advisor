@@ -52,6 +52,35 @@ OPENAI_MODEL=gpt-5.5
 
 Never commit `.env` or API keys.
 
+## Screenshots
+
+### Project Profile
+
+![Project profile](docs/assets/Home.png)
+
+### Options
+
+![Options](docs/assets/options.png)
+
+### Selected Options
+
+![Selected_options](docs/assets/selection.png)
+
+### Deterministic Algorithm Suggestions
+
+![Candidate algorithms](docs/assets/candidate-algorithms.png)
+
+### Deterministic Algorithm Details
+
+![Algorithm_details](docs/assets/algorithm-details.png)
+
+### ChatGPT Ranking
+
+![ChatGPT ranking 1](docs/assets/ranking-1.png)
+![ChatGPT ranking 2](docs/assets/ranking-2.png)
+![ChatGPT ranking 3](docs/assets/ranking-3.png)
+
+
 ## Documentation
 
 - [Application README](algorithm_advisor/README.md)
